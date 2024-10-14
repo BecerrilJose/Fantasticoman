@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">Strategic project manager and data expert: crafting solutions that make a difference."</h3>
+<h3 align="center">Strategic project manager and data expert: "Crafting solutions that make a difference."</h3>
 
 <h3 align="left">Connect with me: linkedin.com/in/jose-becerril-70338b94/ </h3>
 <p align="left">
