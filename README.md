@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">Strategic project manager and data expert: "Crafting solutions that make a difference."</h3>
 
-<h3 align="left">Connect with me: linkedin.com/in/jose-becerril-70338b94/ </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/jose-becerril-70338b94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jose-becerril-70338b94/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
